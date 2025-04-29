@@ -63,8 +63,6 @@ cd study-tracker
 Install dependencies:
 
 ```bash
-Copy
-Edit
 npm install
 Create a .env file in the project root with the following variables:
 
@@ -87,8 +85,6 @@ Running the Project
 To start the development server:
 
 ```bash
-Copy
-Edit
 npm run dev
 Navigate to http://localhost:5173 in your browser.
 
@@ -96,15 +92,11 @@ To build the project for production:
 ```
 
 ```bash
-Copy
-Edit
 npm run build
 To preview the production build:
 ```
 
 ```bash
-Copy
-Edit
 npm run preview
 ```
 ---
@@ -215,7 +207,7 @@ Two-way binding is used in forms to sync user input
 
 ---
 
-Author
+Author:
 Nael Ali Amir
 Neptune Code: B9H89Q
 
@@ -227,23 +219,19 @@ Fork the repository
 Create a new branch:
 
 ```bash
-Copy
-Edit
 git checkout -b feature/your-feature
 Make changes and commit:
 ```
 
 ```bash
-Copy
-Edit
 git commit -m "Add your feature"
 Push to your branch:
 ```
 
 ```bash
-Copy
-Edit
 git push origin feature/your-feature
 Open a pull request
 ```
-
+---
+License
+This software is free to use, modify, and distribute.
