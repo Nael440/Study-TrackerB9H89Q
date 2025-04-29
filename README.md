@@ -51,8 +51,8 @@ VITE_RAPIDAPI_KEY=your_rapidapi_key
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/study-tracker.git
-cd study-tracker
+Clone the repository: git clone https://github.com/Nael440/Study-Tracker.git
+cd Study-Tracker
 
 
 Install dependencies:npm install
@@ -77,7 +77,7 @@ Stores: Svelte stores manage the timer state and toast notifications for real-ti
 The app follows a component-based architecture, with services handling Firebase operations and API calls.
 Structure of the Code Base
 The project is organized as follows:
-study-tracker/
+Study-Tracker/
 ├── lib/
 │   ├── components/
 │   │   ├── Accordion.svelte       # Displays past sessions with edit/delete options
