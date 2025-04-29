@@ -67,8 +67,6 @@ npm install
 Create a .env file in the project root with the following variables:
 
 env
-Copy
-Edit
 VITE_FIREBASE_API_KEY=your_firebase_api_key
 VITE_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
 VITE_FIREBASE_PROJECT_ID=your_firebase_project_id
