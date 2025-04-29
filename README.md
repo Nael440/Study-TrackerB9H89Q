@@ -1,4 +1,6 @@
 Study Tracker
+
+
 Study Tracker is a web application built with SvelteKit to help users track their study sessions, manage time, and review past study activities. It provides a user-friendly interface with a neon-themed design, real-time timers, and Firebase integration for data persistence. The app includes features like session logging, editing, deletion, and a dashboard for weekly study statistics.
 Table of Contents
 
