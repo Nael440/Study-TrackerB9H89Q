@@ -115,9 +115,7 @@ UI Enhancements: Svelte transitions, loading animations
 ---
 
 Code Base Structure
-bash
-Copy
-Edit
+```bash
 study-tracker/
 ├── lib/
 │   ├── components/       # UI components (Accordion, Clock, Loader, etc.)
@@ -134,7 +132,7 @@ study-tracker/
 ├── svelte.config.js      # SvelteKit configuration
 ├── vite.config.js        # Vite configuration
 └── README.md             # Project documentation
-
+```
 ---
 
 APIs Used
@@ -148,8 +146,7 @@ Operations: addDoc, getDocs, updateDoc, deleteDoc
 Each session document includes:
 
 json
-Copy
-Edit
+```bash
 {
   "id": "abc123",
   "subject": "Physics",
@@ -159,7 +156,7 @@ Edit
 }
 RapidAPI - Motivational Quotes
 Endpoint: https://quotes-inspirational-quotes-motivational-quotes.p.rapidapi.com/quote
-
+```
 Method: GET
 
 Used in the QuoteBanner component to display random motivational quotes.
