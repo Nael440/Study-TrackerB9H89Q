@@ -207,7 +207,7 @@ Nael Ali Amir
 
 ---
 
-Contributing
+## Contributing:
 Fork the repository
 
 Create a new branch:
