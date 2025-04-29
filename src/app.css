@@ -1,0 +1,12 @@
+:root {
+    --bg: #000;
+    --accent: #00FF00;
+    --text: #ccc;
+  }
+  
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Poppins', sans-serif;
+  }
+  
