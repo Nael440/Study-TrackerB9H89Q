@@ -227,5 +227,5 @@ git push origin feature/your-feature
 Open a pull request
 ```
 ---
-License
+## License:
 This software is free to use, modify, and distribute.
